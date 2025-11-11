@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Mjollnir.PrjPcb]
+   Generated File[Mjollnir-Plated.TXT]
+   Generated File[Mjollnir-NonPlated.TXT]
+   Generated File[Mjollnir.LDP]
+   Generated File[Mjollnir.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 07:23:17 PM On 20-11-2025
