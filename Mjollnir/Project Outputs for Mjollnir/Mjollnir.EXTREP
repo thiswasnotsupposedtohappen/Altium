@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Mjollnir.GBR   24-11-2025  10:55:53 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                S OT                                    
+.GP1                G OU                                    
+.G1                 S IU                                    
+.GP2                G UD                                    
+.GP3                G ID                                    
+.G2                 S ID                                    
+.GP4                G OD                                    
+.GBL                S OD                                    
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM123              Top Assembly                            
+.GM124              Bottom Assembly                         
+.GD1                Drill Drawing                           
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------

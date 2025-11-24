@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Mjollnir.PcbDoc   24-11-2025  10:56:14 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : S OT to S OD
+ASCII Plated RoundHoles File : Mjollnir-Plated.TXT
+ASCII Non-Plated RoundHoles File : Mjollnir-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             586       PTH        34.55inch (877.58mm)
+T2      35mil (0.89mm)                                            Round             2         PTH        0.71inch (18.00mm)
+T3      35mil (0.9mm)                                             Round             8         PTH        0.65inch (16.62mm)
+T4      39mil (1mm)                                               Round             132       PTH        17.08inch (433.94mm)
+T5      40mil (1.02mm)                                            Round             22        PTH        3.81inch (96.66mm)
+T6      64mil (1.63mm)                                            Round             4         PTH        2.03inch (51.49mm)
+T7      91mil (2.3mm)                                             Round             4         PTH        0.96inch (24.50mm)
+T8      55mil (1.4mm)                                             Round             2         NPTH       0.39inch (10.00mm)
+T9      128mil (3.25mm)                                           Round             4         NPTH       1.87inch (47.43mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              764
+
+Total Processing Time (hh:mm:ss) : 00:00:01
