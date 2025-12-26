@@ -1436,8 +1436,9 @@ PartTypes=0
 [NetInfos]
 Net1=NetName=0.85V|NetColor=$00FF6EFF
 Net2=NetName=1.8V|NetColor=$0099FFFF
-Net3=NetName=3.3V|NetColor=$000083FD
-Net4=NetName=GND|NetColor=clBlack
+Net3=NetName=3.3V-1|NetColor=$003399FF
+Net4=NetName=3.3V-2|NetColor=$003399FF
+Net5=NetName=GND|NetColor=clBlack
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
