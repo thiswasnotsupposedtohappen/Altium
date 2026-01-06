@@ -2,65 +2,13 @@
 FileName = Mjollnir Prototype.GBR
 AutoAperture = True
 *************************************************************
-Generating : S OT
-      File : Mjollnir Prototype.GTL
+Generating : Mechanical 1
+      File : Mjollnir Prototype.GM1
 
-    Adding Layer      : S OT
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D10
-    D16
-    D27
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-*************************************************************
-
-*************************************************************
-Generating : 0.85V
-      File : Mjollnir Prototype.G1
-
-    Adding Layer      : 0.85V
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D48
-    D49
-    D50
-    D51
-    D52
-    D59
 *************************************************************
 
 *************************************************************
@@ -75,29 +23,12 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D14
-    D15
-    D30
-    D70
-    D71
-*************************************************************
-
-*************************************************************
-Generating : 1.8V
-      File : Mjollnir Prototype.G2
-
-    Adding Layer      : 1.8V
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D48
-    D49
-    D50
-    D51
-    D52
-    D59
+    D16
+    D21
+    D29
+    D73
+    D74
+    D75
 *************************************************************
 
 *************************************************************
@@ -131,105 +62,8 @@ Used DCodes :
     D28
     D29
     D30
-*************************************************************
-
-*************************************************************
-Generating : GND T
-      File : Mjollnir Prototype.GP1
-
-    Adding Layer      : GND T
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Mjollnir Prototype.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : GND B
-      File : Mjollnir Prototype.GP2
-
-    Adding Layer      : GND B
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-*************************************************************
-
-*************************************************************
-Generating : S OB
-      File : Mjollnir Prototype.GBL
-
-    Adding Layer      : S OB
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D33
-    D34
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D56
-    D59
-    D67
-    D68
-    D69
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Mjollnir Prototype.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Mjollnir Prototype.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
+    D31
+    D32
 *************************************************************
 
 *************************************************************
@@ -244,16 +78,18 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D33
-    D34
+    D36
+    D39
     D47
-    D48
-    D49
     D50
     D51
     D52
-    D68
-    D69
+    D53
+    D54
+    D55
+    D70
+    D71
+    D72
 *************************************************************
 
 *************************************************************
@@ -268,9 +104,9 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D16
-    D27
-    D31
+    D15
+    D17
+    D18
     D32
     D33
     D34
@@ -292,6 +128,184 @@ Used DCodes :
     D50
     D51
     D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Mjollnir Prototype.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Mjollnir Prototype.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : S OB
+      File : Mjollnir Prototype.GBL
+
+    Adding Layer      : S OB
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D36
+    D39
+    D47
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D61
+    D62
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : GND B
+      File : Mjollnir Prototype.GP2
+
+    Adding Layer      : GND B
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+*************************************************************
+
+*************************************************************
+Generating : 1.8V
+      File : Mjollnir Prototype.G2
+
+    Adding Layer      : 1.8V
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D62
+*************************************************************
+
+*************************************************************
+Generating : S OT
+      File : Mjollnir Prototype.GTL
+
+    Adding Layer      : S OT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D17
+    D18
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : 0.85V
+      File : Mjollnir Prototype.G1
+
+    Adding Layer      : 0.85V
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D62
+*************************************************************
+
+*************************************************************
+Generating : GND T
+      File : Mjollnir Prototype.GP1
+
+    Adding Layer      : GND T
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
 *************************************************************
 
 *************************************************************
@@ -304,8 +318,8 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D72
-    D73
+    D76
+    D77
 *************************************************************
 
 *************************************************************
@@ -314,6 +328,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D74
+    D78
 *************************************************************
 
