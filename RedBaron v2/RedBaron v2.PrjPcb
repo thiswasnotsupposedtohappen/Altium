@@ -1186,6 +1186,34 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=GND|NetColor=$00303030
+Net2=NetName=PRU0|NetColor=$006E6EFF
+Net3=NetName=PRU1|NetColor=$00FF6600
+Net4=NetName=S0F|NetColor=clYellow
+Net5=NetName=S0RX|NetColor=clYellow
+Net6=NetName=S0TX|NetColor=clYellow
+Net7=NetName=X0CC|NetColor=$00FF6EFF
+Net8=NetName=X0CW|NetColor=$00FF6EFF
+Net9=NetName=X0F|NetColor=clYellow
+Net10=NetName=X0RX|NetColor=clYellow
+Net11=NetName=X0TX|NetColor=clYellow
+Net12=NetName=X1CC|NetColor=$00FF6EFF
+Net13=NetName=X1CW|NetColor=$00FF6EFF
+Net14=NetName=X1F|NetColor=clYellow
+Net15=NetName=X1RX|NetColor=clYellow
+Net16=NetName=X1TX|NetColor=clYellow
+Net17=NetName=Y0CC|NetColor=$00FF6EFF
+Net18=NetName=Y0CW|NetColor=$00FF6EFF
+Net19=NetName=Y0F|NetColor=clYellow
+Net20=NetName=Y0RX|NetColor=clYellow
+Net21=NetName=Y0TX|NetColor=clYellow
+Net22=NetName=Z0CC|NetColor=$00FF6EFF
+Net23=NetName=Z0CW|NetColor=$00FF6EFF
+Net24=NetName=Z0F|NetColor=clYellow
+Net25=NetName=Z0RX|NetColor=clYellow
+Net26=NetName=Z0TX|NetColor=clYellow
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
