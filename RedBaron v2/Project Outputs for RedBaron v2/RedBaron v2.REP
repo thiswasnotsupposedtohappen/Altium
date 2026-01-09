@@ -1,0 +1,199 @@
+*************************************************************
+FileName = RedBaron v2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 1
+      File : RedBaron v2.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : RedBaron v2.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Sig Bot
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : RedBaron v2.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Sig Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : RedBaron v2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Sig Bot
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : RedBaron v2.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Sig Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : RedBaron v2.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : RedBaron v2.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Sig Bot
+      File : RedBaron v2.GBL
+
+    Adding Layer      : Sig Bot
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D20
+    D21
+    D23
+*************************************************************
+
+*************************************************************
+Generating : PWR
+      File : RedBaron v2.G2
+
+    Adding Layer      : PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Sig Top
+      File : RedBaron v2.GTL
+
+    Adding Layer      : Sig Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : RedBaron v2.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : RedBaron v2.GD1
+
+    Adding Drill Pair : Sig Top-Sig Bot
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : RedBaron v2.GM
+
+
+Used DCodes :
+    D26
+*************************************************************
+
